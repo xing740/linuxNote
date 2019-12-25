@@ -1,1 +1,1 @@
-python /bin/helper.py $1
+python /home/xing/xpython/helper.py $1
